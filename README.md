@@ -97,3 +97,23 @@ Server runs on http://localhost:8080/.
 6. Add payments (Stripe) when ready
 
 # Notes:
+
+## Notes
+
+- Drivers receive 100% of fares.
+- Only drivers pay a low monthly subscription.
+- Subscription status must be verified for access to driver features.
+- App prioritizes driver-first experience.
+- Riders can select their destination and optionally specify the amount they want to spend.
+- A minimum fare per mile will be enforced.
+- Drivers can choose to accept rides based on rider-specified amounts.
+- If no amount is selected by the rider, the system will generate a cost using a pricing algorithm.
+- No surge pricing or peak fees; riders always pay fair, predictable rates.
+- Pricing is transparent and consistent, regardless of demand or location.
+- Riders can schedule rides in advance.
+- Ratings and reviews for both drivers and riders.
+- Safety features: SOS button, live location sharing, verified driver profiles.
+- Loyalty or rewards system for frequent riders and drivers.
+- Transparent reporting/dashboard for drivers: earnings, ride history, and stats.
+- Real-time ETA updates without inflating prices.
+- Support for multiple payment methods for subscriptions and future upgrades.
