@@ -1,0 +1,32 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+
+# Vendor
+/vendor/
+
+# Go modules
+/go.sum
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor files
+*.idea/
+*.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+# Node modules (if frontend is inside same repo)
+node_modules/
+dist/
